@@ -1,29 +1,11 @@
-# This is a large heading
+# Joshua Dagoy
 
-## This is a smaller heading
+### Geography
+I live in Brussels, Belgium
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**. 
+### Background
+A marine biologist by training and learning how to code and use git.
 
-- This is 
-- an unordered
-- list 
+###Contact
+Get in touch with me [on Twitter[(https://twitter.com/jdagz28).
 
-1. This is 
-2. an ordered 
-3. list 
-
-Here is `some code` in the middle of a sentence. 
-
-``` 
-This is
-a block
-of code 
-``` 
-
-Here is how you 
-make [a link](https://www.wikipedia.org/).
-
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
